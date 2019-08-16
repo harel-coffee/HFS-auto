@@ -1,4 +1,4 @@
-# KNFI_KNFE
+# KNFI and KNFE
 Official Implementation of Mini Batch K-Means Normalized Mutual Information Feature Inclusion(KNFI), Mini batch K-Means Normalized
 Mutual Information Feature Elimination (KNFE)
 
