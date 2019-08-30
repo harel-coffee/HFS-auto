@@ -6,8 +6,7 @@ Mutual Information Feature Elimination (KNFE)
 If you are using this work, please cite our research paper. For any other purpose please contact Thejas Gubbi Sadashiva <tgs001@fiu.edu> or Sajal Raj Joshi <sajrajjazz@gmail.com>.
 
 ## Reference to cite:
-[1] G. S. Thejas, S. R. Joshi, S. S. Iyengar, N. R. Sunitha and P. Badrinath, "Mini-Batch Normalized Mutual Information: A Hybrid Feature Selection Method," in IEEE Access.
+[1] G. S. Thejas, S. R. Joshi, S. S. Iyengar, N. R. Sunitha and P. Badrinath, "Mini-Batch Normalized Mutual Information: A Hybrid Feature Selection Method," in IEEE Access, vol. 7, pp. 116875-116885, 2019.
 doi: 10.1109/ACCESS.2019.2936346
-keywords: {Feature Selection;Filter Method;Hybrid Feature Selection;Normalized Mutual Information;Mini Batch K-Means;Random Forest;Wrapper Method},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805315&isnumber=6514899
-
+keywords: {Feature selection;filter method;hybrid feature selection;normalized mutual information;mini batch K-means;random forest;wrapper method},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805315&isnumber=8600701
