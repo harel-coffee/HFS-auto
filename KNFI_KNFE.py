@@ -1,4 +1,4 @@
-def fetsel(X,y,n):
+def fetsel(X,y,n):                           # X is the attributes ,y is the class , n specifies the number of class labels
     #Importing Libraries
     import numpy as np
     import pandas as pd
