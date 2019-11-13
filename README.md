@@ -2,6 +2,8 @@
 Official Implementation of Mini Batch K-Means Normalized Mutual Information Feature Inclusion(KNFI), Mini batch K-Means Normalized
 Mutual Information Feature Elimination (KNFE)
 
+Mini-Batch Normalized Mutual Information: A Hybrid Feature Selection Method
+
 ## Permissions
 If you are using this work, please cite our research paper. For any other purpose please contact Thejas Gubbi Sadashiva <tgs001@fiu.edu> or Sajal Raj Joshi <sajrajjazz@gmail.com>.
 
