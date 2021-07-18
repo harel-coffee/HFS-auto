@@ -22,11 +22,11 @@ def fetsel(X,y,n):                           # X is the attributes ,y is the cla
     for i in X.columns:
         fet.append(i)
     #Normalizing
-    X=MinMaxScaler().fit_transform(X)
+    X=MinMaxScaler().fit_transform(X) # or Standard scaler based on the dataset
     x=pd.DataFrame(X)
     #splitting
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=9)
-    rf = RandomForestClassifier(n_estimators = 100, criterion = 'entropy', random_state = 42, n_jobs = -1)
+    rf = RandomForestClassifier(random_state=0, n_jobs=-1) #or (n_estimators = 100, criterion = 'entropy', random_state = 42, n_jobs = -1)
     x_train.columns=fet
     x_test.columns=fet
     a=x.values
